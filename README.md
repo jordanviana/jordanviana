@@ -1,12 +1,8 @@
-# Olá, sou o Jordan 👋
+# Alô, sou o Jordan 👋
 
 ## Dev Full Stack (7+ Anos)
 
 ---
-
-<p align="center">
-  <img src="https://www.youtube.com/watch?v=qyxrhFvujX8" width="150" alt="Avatar"/>
-</p>
 
 Sou um desenvolvedor Full Stack com 7 ~ 8 anos de experiência sólida em arquitetura e desenvolvimento de aplicações SaaS. Minha paixão é otimizar performance e garantir a estabilidade do sistema do banco de dados ao Front-end.
 
