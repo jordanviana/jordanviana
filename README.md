@@ -42,11 +42,11 @@ Aqui estão as tecnologias que eu domino e utilizo em produção:
 
 ### ✨ Projetos em Destaque
 
-#### 1. 📋 Grello - Sistema de Gestão (Angular & Node)
+#### 1. 📋 Grello - Sistema de Gestão de tarefas (Angular & Node)
 
 Desenvolvi uma aplicação Full Stack para entendimento do novo Angular, apresentando autenticação JWT, CRUD completo e filtros dinâmicos de tarefas.
 
-* **[🔗 Visite o Repositório]**
+* **[🔗[Visite o Repositório](https://github.com/jordanviana/Grello)]**
 
 #### 2. Sistema de Vendas SaaS (Projeto Profissional)
 
