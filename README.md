@@ -1,6 +1,6 @@
 # Alô, sou o Jordan 👋
 
-## Dev Full Stack (7+ Anos)
+## Dev Full Stack
 
 ---
 
